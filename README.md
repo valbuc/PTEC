@@ -10,15 +10,15 @@
   <a href="#installation">Installation</a> •
   <a href="#reproducibility">Reproducibility</a> •
   <a href="#usage">Usage</a> •
-  <a href="#other-resources">Other Resources</a> •
   <a href="https://arxiv.org/abs/2309.12075">Paper</a> •
+  <a href="https://console.cloud.google.com/storage/browser/motherbrain-ptec?project=motherbrain-external">NAACL 2024 Presentation</a> •
   <a href="https://medium.com/motherbrain/how-eqt-motherbrain-uses-llms-to-map-companies-to-industry-sectors-d713e7923380">Blog Post</a> •
   <a href="#citation">Citation</a> 
 </p>
 </div>
 
 
-This repository contains the code accompanying the paper ["Prompt Tuned Embedding Classification for Multi-Label Industry Sector Allocation"](https://arxiv.org/abs/2309.12075). We also recommend to read our blog post ["How EQT Motherbrain uses LLMs to map companies to industry sectors"](https://motherbrain.ai/how-eqt-motherbrain-uses-llms-to-map-companies-to-industry-sectors-d713e7923380). For any questions, please contact [valentin.buchner@eqtpartners.com](mailto:valentin.buchner@eqtpartners.com).
+This repository contains the code accompanying the paper ["Prompt Tuned Embedding Classification for Multi-Label Industry Sector Allocation"](https://arxiv.org/abs/2309.12075). We also recommend to read our blog post ["How EQT Motherbrain uses LLMs to map companies to industry sectors"](https://motherbrain.ai/how-eqt-motherbrain-uses-llms-to-map-companies-to-industry-sectors-d713e7923380).
 
 
 ## Installation
